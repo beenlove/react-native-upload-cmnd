@@ -1,0 +1,25 @@
+{
+  "name": "com.uploadcmnd",
+  "version": "1.1.0",
+  "description": "Demo detech CMND",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-native-upload-cmnd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenlove/uploadcmnd.git"
+  },
+  "keywords": [
+    "react-native-uplaod-cmnd"
+  ],
+  "author": "nhattruongdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beenlove/uploadcmnd/issues"
+  },
+  "homepage": "https://github.com/beenlove/uploadcmnd#readme",
+  "dependencies": {
+    "react-native-image-crop-picker": "^0.32.2"
+  }
+}
