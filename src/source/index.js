@@ -1,4 +1,4 @@
-import imageupload1 from './icon/imageupload1'
+import imageupload1 from './icon/imageupload1.png'
 import imageupload2 from './icon/imageupload2.png'
 
 export const sourceIcon = {
